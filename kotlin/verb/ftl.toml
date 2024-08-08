@@ -1,2 +1,5 @@
 module = "verb"
 language = "kotlin"
+[global]
+    [global.configuration]
+        CUSTOMER_TOKEN_TBD = "inline://ImN1c3RfMDFodDc1MTV6NmU4a2FkejRhbjNocGg0OHIi"
